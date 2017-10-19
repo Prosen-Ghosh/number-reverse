@@ -1,0 +1,27 @@
+{
+  "name": "number-reverse",
+  "version": "1.0.0",
+  "description": "Reverse number",
+  "main": "number-reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/number-reverse.git"
+  },
+  "keywords": [
+    "reverse",
+    "number"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/number-reverse/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/number-reverse#readme",
+  "devDependencies": {
+    "node-readme": "^0.1.9"
+  }
+}
